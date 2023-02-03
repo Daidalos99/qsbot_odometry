@@ -1,0 +1,8 @@
+prefix=/home/daidalos99/QS_Bot_Odometry/build/devel
+
+Name: QS_Bot_Odometry
+Description: Description of QS_Bot_Odometry
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs roscpp rospy rviz sensor_msgs serial std_msgs tf tf2 urdf xacro
