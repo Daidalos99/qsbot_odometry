@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(QS_Bot_Odometry)
+project(qsbot_odometry)
 
 find_package(catkin REQUIRED COMPONENTS
   geometry_msgs

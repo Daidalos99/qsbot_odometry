@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>QS_Bot_Odometry</name>
+  <name>qsbot_odometry</name>
   <version>0.0.0</version>
-  <description>The QS_Bot_Odometry package</description>
+  <description>The qsbot_odometry package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
